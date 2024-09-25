@@ -211,3 +211,6 @@ body {
 .footer > strong > span {
   color: orange;
 }
+.filter-btn {
+  margin: 10px;
+}
